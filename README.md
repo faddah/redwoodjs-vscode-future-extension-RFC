@@ -26,6 +26,8 @@ This will follow an Agile process, with new features assigned to volunteer Open 
 
 This is to be built by contributing members of the [RedwooodJS Community](https://community.redwoodjs.com/t/welcome-to-the-redwoodjs-community/) with input via the [Commuhity Pages](https://community.redwoodjs.com/t/welcome-to-the-redwoodjs-community/) and the [RedwoodJS Discord](https://discord.gg/PMACdytf) from the RedwoodJS Core Team. This section is where we will put a list of features that have been discussed under the Issues on this repository and have come to a resolution describing the feature, how to implement it, and a consensus that it is a desired feature for this RedwoodJS VS Code Extension.
 
+To propose a feature or fix, file an **[Issue](https://github.com/faddah/redwoodjs-vscode-future-extension-RFC/issues)** in this repository. It will be discussed on the issure thread there, and if there is enough consensus that it should be a feature of the extentino, it will be added, with a link
+
 **Proposed Features —**
 
 - Click on a Redwood Yarn Generation or other feature name and have it automatically executed for you in the terminal and code.
@@ -37,3 +39,11 @@ Features / Fixes for Proposed RedwoodJS VS Code Extension as pertains to Develop
 ### UI
 
 Features / Fixes for Proposed RedwoodJS VS Code Extension as pertains to Developer UI go here.
+
+### Proposed RedwoodJS Visual Code Extension Contributing Community Developers
+
+- [Faddah Wolf](https://github.com/faddah)
+
+### RedwoodJS Core Team Members Reviwing Proposal &amp; Features
+
+- TBD
