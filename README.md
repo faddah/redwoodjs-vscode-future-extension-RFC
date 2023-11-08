@@ -28,6 +28,8 @@ This is to be built by contributing members of the [RedwooodJS Community](https:
 
 To propose a feature or fix, file an **[Issue](https://github.com/faddah/redwoodjs-vscode-future-extension-RFC/issues)** in this repository. It will be discussed on the issure thread there, and if there is enough consensus that it should be a feature of the extentino, it will be added, with a link
 
+To see how to properly write a feature request Issue for this issue, please see this Issue, **[How To FIle An Issue For This RFC](https://github.com/faddah/redwoodjs-vscode-future-extension-RFC/issues/1)**.
+
 **Proposed Features —**
 
 - Click on a Redwood Yarn Generation or other feature name and have it automatically executed for you in the terminal and code.
