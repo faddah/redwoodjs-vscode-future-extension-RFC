@@ -33,6 +33,7 @@ To see how to properly write a feature request Issue for this issue, please see 
 **Proposed Features —**
 
 - Click on a Redwood Yarn Generation or other feature name and have it automatically executed for you in the terminal and code.
+- _[More features to come as more issues are filed and discussed.]_
 
 ### UX
 
